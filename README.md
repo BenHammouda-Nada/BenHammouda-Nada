@@ -17,6 +17,16 @@
 </a>
 
 </p>
+<p align="center">
+
+  <a href="https://github-profile-trophy.vercel.app/?username=BenHammouda-Nada&row=1&theme=darkhub&margin-w=15&no-bg=true" target="_blank" rel="noopener noreferrer">
+
+    <img src="https://github-profile-trophy.vercel.app/?username=BenHammouda-Nada&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy">
+
+  </a>
+
+</p>
+
 # Hi there 👋 I'm Nada
 
 ## 👩‍💻 About Me
