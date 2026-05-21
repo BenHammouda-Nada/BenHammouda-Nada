@@ -106,9 +106,12 @@ Simulation and analysis of ECG biomedical signals with peak detection and BPM es
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenHammouda-Nada&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=BenHammouda-Nada&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=BenHammouda-Nada&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 # 📫 Contact Me
