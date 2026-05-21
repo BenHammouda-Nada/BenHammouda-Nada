@@ -1,81 +1,126 @@
-<h2 align="center">Nada Ben Hammouda</h2>
+<h1 align="center">Hi 👋, I'm Nada Ben Hammouda</h1>
 
-<h3 align="center">Cloud & AI Enthusiast</h3>
+<h3 align="center">Biomedical Engineer | Cloud & AI Enthusiast</h3>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/username">
-
-<img src="https://img.shields.io/badge/LinkedIn-blue" />
-
-</a>
-
-<a href="https://github.com/username">
-
-<img src="https://img.shields.io/badge/GitHub-black" />
-
-</a>
-
+  Passionate about Medical Imaging, Artificial Intelligence, and Healthcare Technologies
 </p>
+
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=BenHammouda-Nada&row=1&theme=darkhub&margin-w=15&no-bg=true" target="_blank" rel="noopener noreferrer">
-   <img src="https://github-profile-trophy.vercel.app/?username=BenHammouda-Nada&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy">
- </a>
+  <a href="https://www.linkedin.com/in/nada-ben-hammouda-528a47165" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://github.com/BenHammouda-Nada" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="mailto:nadabh91@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
-# Hi there 👋 I'm Nada
+---
 
-## 👩‍💻 About Me
-Biomedical Engineer passionate about:
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=BenHammouda-Nada&row=1&theme=darkhub&margin-w=15&no-bg=true" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=BenHammouda-Nada&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy"/>
+  </a>
+</p>
+
+---
+
+# 👩‍💻 About Me
+
+🎓 Biomedical Engineer passionate about:
+
 - Medical Imaging
 - Artificial Intelligence
 - Connected Medical Devices
 - Healthcare Technologies
+- Cloud & AI Solutions
 
-Currently interested in:
-- AI in healthcare
-- Neural implants
-- Medical software solutions
+💡 Currently interested in:
+
+- AI in Healthcare
+- Neural Implants
+- Medical Software Solutions
+- Intelligent Healthcare Systems
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Skills
 
-### Programming
-- Python
-- MATLAB
-- C++
+## 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" />
+</p>
 
-### Biomedical Engineering
+---
+
+## 🧠 Biomedical Engineering
 - Medical Imaging
 - PET/CT Analysis
 - Hospital Software
 - Medical Devices
-
-### Tools
-- Microsoft Office
-- Azure AI
-- Git & GitHub
+- Signal Processing
 
 ---
 
-## 📂 Projects
+## ☁️ Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure" />
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice" />
+</p>
 
-### 🧠 Medical Imaging Analysis
-Image segmentation and analysis using PET/CT.
+---
 
-### 🏥 Hospital Management Software
+# 📂 Projects
+
+## 🧠 Medical Image Analysis
+Biomedical signal and image processing using Python.
+
+## 🏥 Hospital Management Software
 Functional consulting and healthcare software configuration.
 
+## ❤️ ECG Signal Analysis
+Simulation and analysis of ECG biomedical signals with peak detection and BPM estimation.
+
 ---
 
-## 🎯 Goals
+# 🎯 Goals
+
 - Improve my AI & Data Science skills
 - Work on innovative medical technologies
 - Contribute to healthcare innovation
+- Develop intelligent healthcare solutions
 
 ---
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/nada-ben-hammouda-528a47165?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Email:nadabh91@gmail.com
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BenHammouda-Nada&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenHammouda-Nada&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 📫 Contact Me
+
+📧 Email: nadabh91@gmail.com
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/nada-ben-hammouda-528a47165
+
+🌐 GitHub:
+https://github.com/BenHammouda-Nada
